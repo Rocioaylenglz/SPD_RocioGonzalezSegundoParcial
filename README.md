@@ -9,21 +9,21 @@
 [![Parcial-Dos.jpg](https://i.postimg.cc/Pq3bsySX/Parcial-Dos.jpg)](https://postimg.cc/hJmQVLF6)
 
 ##	Elementos Utilizados:
-• Arduino UNO
-• Sensor de temperatura
-• Control remoto IR (Infrarrojo)
-• Display LCD (16x2 caracteres)
-• 1 Servo motor
-• Cables y resistencias 
-• Protoboard para realizar las conexiones
-• Dos leds, uno azul y uno rojo
+• Arduino UNO.
+• Sensor de temperatura.
+• Control remoto IR (Infrarrojo).
+• Display LCD (16x2 caracteres).
+• 1 Servo motor.
+• Cables y resistencias. 
+• Protoboard para realizar las conexiones.
+• Dos leds, uno azul y uno rojo.
 
 ##	Funcionamiento Integral
 
 <pre lang="cpp">
-#include <LiquidCrystal.h>
-#include <Servo.h>
-#include <IRremote.h>
+#include //<LiquidCrystal.h>
+#include //<Servo.h>
+#include //<IRremote.h>
 </pre>
 Importo las bibliotecas necesarias para utilizar el LCD, el servo y el control remoto infrarrojo.
 
