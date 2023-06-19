@@ -5,8 +5,9 @@
 ## Proyecto : Sistema de incendios, parcial
 
 ##	Diagramas 
-[![segundo-parcial-Rocio-Gonzalez.png](https://i.postimg.cc/c15R5FrX/segundo-parcial-Rocio-Gonzalez.png)](https://postimg.cc/RqKJWQ1H)
 [![Parcial-Dos.jpg](https://i.postimg.cc/Pq3bsySX/Parcial-Dos.jpg)](https://postimg.cc/hJmQVLF6)
+[![segundo-parcial-Rocio-Gonzalez.png](https://i.postimg.cc/c15R5FrX/segundo-parcial-Rocio-Gonzalez.png)](https://postimg.cc/RqKJWQ1H)
+
 
 ##	Elementos Utilizados:
 • Arduino UNO.
@@ -21,9 +22,9 @@
 ##	Funcionamiento Integral
 
 <pre lang="cpp">
-#include //<LiquidCrystal.h>
-#include //<Servo.h>
-#include //<IRremote.h>
+#include LiquidCrystal.h
+#include Servo.h
+#include IRremote.h
 </pre>
 Importo las bibliotecas necesarias para utilizar el LCD, el servo y el control remoto infrarrojo.
 
